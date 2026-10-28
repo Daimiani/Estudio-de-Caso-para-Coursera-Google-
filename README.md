@@ -1,4 +1,21 @@
-# Estudio-de-Caso-para-Coursera-Google-
+Estudio de caso: uso y costo de la IA en estudiantes y profesionales
+
+Análisis con las seis fases de Google Data Analytics (Preguntar, Preparar, Procesar, Analizar, Compartir, Actuar).
+
+Contenido
+informe_estudio_de_caso.docx: informe completo.
+datos_limpios.csv: base limpia con variables nuevas.
+codigo/limpieza.py: limpieza y normalización.
+codigo/graficos.py: tablas y gráficos.
+graficos/: 13 gráficos en PNG.
+Cómo reproducir
+
+Colocar AI_Usage_and_Impact_on_Students_and_Professionals.csv en la carpeta de trabajo y ejecutar, en orden:
+
+python codigo/limpieza.py
+python codigo/graficos.py
+
+Requiere pandas, numpy y matplotlib. graficos.py escribe tablas auxiliares en la carpeta actual.# Estudio-de-Caso-para-Coursera-Google-
 Generación de un estudio de caso correspondiente al proyecto final del Curso Analista de Datos Google
 En este Proyecto Final se ha utilizado la siguiente información para crear el estudio de caso.
 Uso de la IA e impacto en estudiantes y profesionales - Eisha Tuz Zuhra (Owner)
