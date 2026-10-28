@@ -1,0 +1,289 @@
+User_ID,Edad,Genero,Pais,Tipo_Usuario,Educacion,Profesion,Area,Ingreso_mensual,Ingreso_atipico,Herramienta,Proposito,Horas_IA_dia,Horas_IA_Semana,Costo_mensual_USD,Paga,Productividad,Precision,Satisfaccion,Horas_ahorradas_semana,Ahorro_por_hora_IA,Horas_trabajo_estudio_dia,Recomendaria
+U0269,30.0,Hombre,Reino Unido,Profesional,Maestría,Business Analyst,Datos y analítica,5421.0,False,ChatGPT,Trabajo de oficina,2.0,14.0,,,5.3,4.0,7.0,3.9,0.2785714285714286,7.3,Sí
+U0217,30.0,Hombre,Estados Unidos,Profesional,Licenciatura,Customer Support Specialist,Atención al cliente,8903.0,False,ChatGPT,Atención al cliente,5.7,39.9,0.0,0.0,9.9,3.0,9.0,11.4,0.28571428571428575,8.4,Sí
+U0152,17.0,Hombre,Canadá,Estudiante,,Computer Science Student,Tecnología y software,402.0,False,ChatGPT,Programación,1.0,7.0,20.0,1.0,3.2,2.0,4.0,5.2,0.7428571428571429,6.7,No
+U0264,35.0,Mujer,Brasil,Profesional,Licenciatura,Desenvolvedora de Software / Software Developer,Tecnología y software,1367.0,False,Meta AI,Programación,1.7,11.9,20.0,1.0,5.6,4.0,5.0,6.4,0.5378151260504201,9.6,Quizás
+U0263,19.0,Mujer,Canadá,Estudiante,Pregrado en curso,Biology Student,Ciencias e investigación,438.0,False,Perplexity,,4.1,28.699999999999996,0.0,0.0,4.7,4.0,7.0,9.2,0.32055749128919864,6.2,Sí
+U0225,19.0,,Estados Unidos,Estudiante,Pregrado en curso,Business Analytics Student,Datos y analítica,774.0,False,Meta AI,Análisis de datos,1.5,10.5,0.0,0.0,5.0,3.0,6.0,2.9,0.2761904761904762,7.4,No
+U0246,32.0,Hombre,Francia,Profesional,Licenciatura,Développeur Full Stack,Tecnología y software,4466.0,False,ChatGPT,Programación,1.2,8.4,20.0,1.0,3.0,2.0,5.0,6.6,0.7857142857142856,6.4,Sí
+U0177,32.0,Hombre,Filipinas,Profesional,Secundaria,Social Media Content Creator,Contenido y marketing,486.0,False,ChatGPT,Creación de contenido,2.0,14.0,0.0,0.0,6.5,2.0,5.0,3.2,0.2285714285714286,6.4,Sí
+U0207,16.0,Hombre,Filipinas,Estudiante,Pregrado en curso,Digital Media Production Student,Contenido y marketing,132.0,False,Claude,Creación de contenido,1.6,11.200000000000001,30.0,1.0,4.7,4.0,6.0,3.8,0.33928571428571425,3.8,Sí
+U0167,40.0,Hombre,India,Profesional,Secundaria,,,1595.0,False,ChatGPT,Escritura,1.7,11.9,10.0,1.0,,2.0,5.0,7.5,0.6302521008403361,9.4,Quizás
+U0135,36.0,Mujer,Pakistán,Profesional,Maestría,Research Analyst,Datos y analítica,856.0,False,ChatGPT,Investigación,2.7,18.900000000000002,0.0,0.0,,4.0,6.0,5.7,0.30158730158730157,8.7,Sí
+U0211,22.0,Hombre,Canadá,Estudiante,Pregrado en curso,Mechanical Engineering Student,Ingeniería,547.0,False,Claude,Investigación,5.0,35.0,0.0,0.0,6.6,3.0,6.0,9.8,0.28,5.6,No
+U0114,30.0,Mujer,Australia,Profesional,Licenciatura,Software Developer,Tecnología y software,3307.0,False,ChatGPT,Programación,0.8,5.6000000000000005,10.0,1.0,2.3,4.0,4.0,0.5,0.08928571428571427,8.0,No
+U0191,21.0,Mujer,Canadá,Estudiante,Pregrado en curso,Software Engineering Student,Tecnología y software,387.0,False,ChatGPT,Programación,5.8,40.6,30.0,1.0,6.9,4.0,8.0,10.2,0.25123152709359603,4.8,Sí
+U0035,28.0,Hombre,Reino Unido,Profesional,Licenciatura,Data Analyst,Datos y analítica,3117.0,False,Claude,Análisis de datos,3.9,27.3,10.0,1.0,8.6,3.0,8.0,11.8,0.43223443223443225,7.6,Sí
+U0138,16.0,Mujer,Canadá,Estudiante,Maestría,,,324.0,False,Copilot,Programación,7.1,49.699999999999996,20.0,1.0,,2.0,5.0,11.6,0.23340040241448692,3.0,No
+U0059,22.0,Hombre,Canadá,Profesional,Secundaria,Customer Service Representative,Atención al cliente,3546.0,False,Perplexity,Atención al cliente,1.7,11.9,0.0,0.0,7.0,4.0,7.0,3.4,0.2857142857142857,6.7,Sí
+U0215,23.0,Hombre,India,Estudiante,Maestría,English Literature Student,Literatura y humanidades,109.0,False,Gemini,Escritura,1.5,10.5,20.0,1.0,3.9,3.0,6.0,3.7,0.3523809523809524,3.9,Sí
+U0228,22.0,Hombre,Kenia,Estudiante,Secundaria,Biology Student,Ciencias e investigación,109.0,False,ChatGPT,Investigación,9.6,67.2,20.0,1.0,7.3,4.0,9.0,19.4,0.28869047619047616,5.2,Sí
+U0046,61.0,Mujer,Nigeria,Profesional,Diploma,Research Technician,Ciencias e investigación,585.0,False,Gemini,Investigación,,,10.0,1.0,4.1,3.0,4.0,5.4,,9.5,No
+U0176,24.0,Hombre,India,Profesional,Diploma,AI-Powered Customer Support Executive,Atención al cliente,1977.0,False,ChatGPT,Atención al cliente,0.9,6.3,10.0,1.0,4.1,3.0,6.0,0.0,0.0,7.3,Quizás
+U0227,23.0,Hombre,Pakistán,Estudiante,Maestría,English Literature Student,Literatura y humanidades,0.0,False,ChatGPT,Escritura,1.7,11.9,20.0,1.0,2.8,2.0,3.0,2.7,0.226890756302521,5.4,No
+U0198,29.0,Mujer,Alemania,Profesional,Licenciatura,Kundenservice-Spezialistin / Customer Service Specialist,Atención al cliente,,False,ChatGPT,Atención al cliente,1.0,7.0,,,4.0,3.0,6.0,2.7,0.38571428571428573,8.0,Quizás
+U0141,29.0,,Reino Unido,Estudiante,Secundaria,Computer Science Student,Tecnología y software,0.0,False,Grammarly,Programación,2.6,18.2,10.0,1.0,3.7,4.0,7.0,4.8,0.26373626373626374,6.2,Sí
+U0205,24.0,Hombre,Reino Unido,Estudiante,,Mechanical Engineering Student,Ingeniería,444.0,False,Gemini,Estudio,1.2,8.4,0.0,0.0,3.8,3.0,5.0,3.0,0.35714285714285715,7.2,No
+U0209,28.0,Mujer,Filipinas,Profesional,Licenciatura,Digital Content Creator,Contenido y marketing,392.0,False,ChatGPT,Creación de contenido,1.6,11.200000000000001,10.0,1.0,4.0,2.0,3.0,4.5,0.40178571428571425,7.8,Sí
+U0149,23.0,Hombre,Brasil,Estudiante,Pregrado en curso,Computer Science Student,Tecnología y software,215.0,False,ChatGPT,Programación,0.6,4.2,10.0,1.0,3.0,4.0,5.0,0.0,0.0,6.5,No
+U0179,28.0,Hombre,Brasil,Profesional,Licenciatura,Pesquisador de Mercado,Datos y analítica,1567.0,False,Copilot,Investigación,0.7,4.8999999999999995,0.0,0.0,4.0,3.0,6.0,4.4,0.8979591836734696,8.1,No
+U0016,23.0,Mujer,Canadá,Estudiante,Pregrado en curso,Biology Student,Ciencias e investigación,,False,ChatGPT,Estudio,7.4,51.800000000000004,0.0,0.0,8.7,3.0,9.0,12.3,0.23745173745173745,6.8,Sí
+U0132,,Hombre,Australia,Estudiante,,Business Administration Student,Negocios y administración,0.0,False,ChatGPT,Investigación,5.4,37.800000000000004,0.0,0.0,7.2,4.0,8.0,10.7,0.283068783068783,4.8,No
+U0008,23.0,Hombre,Australia,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,531.0,False,ChatGPT,Escritura,5.2,36.4,0.0,0.0,6.7,,7.0,12.1,0.3324175824175824,7.0,Sí
+U0162,44.0,Mujer,Kenia,Profesional,Licenciatura,Research Analyst,Datos y analítica,258.0,False,DeepSeek,,3.7,25.900000000000002,0.0,0.0,4.6,5.0,6.0,5.7,0.22007722007722005,6.9,Sí
+U0081,23.0,Hombre,Nigeria,Profesional,Diploma,Research Assistant,Ciencias e investigación,334.0,False,ChatGPT,Investigación,2.3,16.099999999999998,20.0,1.0,3.9,2.0,5.0,2.5,0.15527950310559008,7.7,No
+U0014,23.0,Hombre,India,Estudiante,Secundaria,Engineering Student,Ingeniería,169.0,False,,Estudio,5.4,37.800000000000004,0.0,0.0,8.1,4.0,9.0,6.8,0.17989417989417986,6.9,Sí
+U0278,22.0,Hombre,Canadá,Estudiante,Pregrado en curso,Mechanical Engineering Student,Ingeniería,507.0,False,Perplexity,Estudio,1.9,13.299999999999999,0.0,0.0,4.6,3.0,4.0,2.0,0.15037593984962408,4.1,Sí
+U0102,18.0,Hombre,Filipinas,Estudiante,Pregrado en curso,Information Technology Student,Tecnología y software,0.0,False,Gemini,Estudio,1.6,11.200000000000001,0.0,0.0,3.3,4.0,5.0,4.3,0.3839285714285714,3.2,Sí
+U0258,16.0,Mujer,,Estudiante,Pregrado en curso,,,63.0,False,Perplexity,Investigación,1.9,13.299999999999999,0.0,0.0,3.5,3.0,5.0,3.0,0.2255639097744361,5.4,Quizás
+U0239,45.0,Hombre,Pakistán,Profesional,Maestría,Senior Software Engineer,Tecnología y software,887.0,False,,Programación,1.5,10.5,0.0,0.0,5.3,3.0,5.0,5.3,0.5047619047619047,6.4,Quizás
+U0071,30.0,,India,Profesional,Maestría,Data Analytics Manager,Datos y analítica,1699.0,False,Perplexity,Análisis de datos,5.5,38.5,10.0,1.0,,4.0,8.0,6.5,0.16883116883116883,7.5,Sí
+U0259,43.0,Hombre,Brasil,Profesional,Doctorado,Engenheiro de Software Sênior / Tech Lead,Tecnología y software,,False,ChatGPT,Programación,0.6,4.2,20.0,1.0,4.0,2.0,5.0,0.0,0.0,10.1,Quizás
+U0075,29.0,Hombre,Estados Unidos,Profesional,Licenciatura,Content Writer,Contenido y marketing,5260.0,False,ChatGPT,Escritura,1.6,11.200000000000001,0.0,0.0,3.9,4.0,5.0,5.2,0.46428571428571425,6.7,
+U0288,36.0,Hombre,Pakistán,Profesional,Maestría,Senior Software Engineer / Technical Lead,Tecnología y software,513.0,False,ChatGPT,Programación,3.7,25.900000000000002,0.0,0.0,5.7,2.0,5.0,5.8,0.2239382239382239,10.1,Quizás
+U0271,24.0,Mujer,India,Profesional,Licenciatura,Software Developer,Tecnología y software,2307.0,False,Grammarly,Programación,0.6,4.2,0.0,0.0,4.4,4.0,7.0,1.6,0.38095238095238093,12.0,Sí
+U0070,17.0,,Brasil,Estudiante,Pregrado en curso,,,234.0,False,ChatGPT,Estudio,5.1,35.699999999999996,0.0,0.0,8.3,5.0,9.0,11.4,0.319327731092437,7.2,Sí
+U0054,20.0,Hombre,India,Estudiante,Secundaria,Computer Science Student,Tecnología y software,206.0,False,Gemini,Programación,2.4,16.8,20.0,1.0,5.5,3.0,5.0,7.3,0.4345238095238095,8.6,Sí
+U0164,44.0,Mujer,Nigeria,Profesional,Maestría,Research Scientist/Senior Research Officer,Ciencias e investigación,384.0,False,Copilot,Investigación,0.9,6.3,10.0,1.0,3.1,3.0,4.0,1.2,0.19047619047619047,7.9,No
+U0219,21.0,Hombre,Reino Unido,Estudiante,Maestría,Artificial Intelligence and Machine Learning Student,Datos y analítica,206.0,False,Gemini,Programación,9.1,63.699999999999996,30.0,1.0,6.5,3.0,8.0,14.9,0.2339089481946625,5.4,Sí
+U0036,34.0,Mujer,Estados Unidos,Profesional,Maestría,Content Strategy Manager,Contenido y marketing,5669.0,False,ChatGPT,Escritura,8.0,56.0,0.0,0.0,7.3,2.0,7.0,16.3,0.2910714285714286,7.4,Sí
+U0057,18.0,Hombre,Filipinas,Estudiante,Secundaria,English Literature Student,Literatura y humanidades,198.0,False,Perplexity,Escritura,,,0.0,0.0,6.9,2.0,6.0,7.2,,7.2,Quizás
+U0060,,Mujer,Filipinas,Estudiante,Licenciatura,,,190.0,False,ChatGPT,Investigación,7.7,53.9,,,8.4,5.0,10.0,13.6,0.2523191094619666,6.8,Sí
+U0226,32.0,Hombre,Nigeria,Profesional,Secundaria,Social Media Content Creator / Digital Marketer,Contenido y marketing,376.0,False,Claude,Creación de contenido,1.3,9.1,20.0,1.0,3.3,4.0,5.0,3.2,0.3516483516483517,11.6,Quizás
+U0118,44.0,Otro,Francia,Profesional,Licenciatura,Responsable de Contenu Digital,Contenido y marketing,3477.0,False,ChatGPT,Creación de contenido,2.2,15.400000000000002,0.0,0.0,5.0,4.0,,2.8,0.18181818181818177,10.7,Sí
+U0028,,Otro,Pakistán,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,100.0,False,ChatGPT,Escritura,1.2,8.4,50.0,1.0,5.8,4.0,7.0,,,5.7,Sí
+U0125,26.0,,Nigeria,Estudiante,Secundaria,Computer Science Student,Tecnología y software,0.0,False,ChatGPT,Programación,0.6,4.2,0.0,0.0,3.2,2.0,5.0,2.2,0.5238095238095238,8.8,Sí
+U0223,33.0,Mujer,Australia,Profesional,Diploma,Marketing Communications Officer,Contenido y marketing,6197.0,False,ChatGPT,Escritura,1.9,13.299999999999999,,,5.4,4.0,7.0,6.0,0.4511278195488722,11.0,Sí
+U0243,31.0,Hombre,Australia,Profesional,Licenciatura,Customer Support Specialist,Atención al cliente,5355.0,False,Gemini,Atención al cliente,4.6,32.199999999999996,0.0,0.0,8.8,2.0,6.0,11.5,0.3571428571428572,8.7,Sí
+U0165,22.0,Hombre,Brasil,Estudiante,Secundaria,Mechanical Engineering Student,Ingeniería,86.0,False,Gemini,Estudio,1.4,9.799999999999999,0.0,0.0,1.9,3.0,5.0,1.7,0.17346938775510207,,Sí
+U0238,21.0,Hombre,Pakistán,Estudiante,Secundaria,Digital Media Student,Contenido y marketing,62.0,False,ChatGPT,Creación de contenido,7.2,50.4,10.0,1.0,6.8,4.0,7.0,13.2,0.2619047619047619,6.1,Sí
+U0069,32.0,Hombre,Canadá,Profesional,Licenciatura,Content Marketing Manager,Contenido y marketing,3337.0,False,ChatGPT,,1.3,9.1,0.0,0.0,3.8,4.0,7.0,2.9,0.31868131868131866,7.6,Sí
+U0092,22.0,Hombre,Pakistán,Estudiante,Licenciatura,Computer Science Student,Tecnología y software,113.0,False,Perplexity,Análisis de datos,1.0,7.0,0.0,0.0,3.2,3.0,3.0,4.2,0.6,6.5,No
+U0043,21.0,Hombre,Reino Unido,Estudiante,Pregrado en curso,Computer Science Student,Tecnología y software,118.0,False,Gemini,Programación,,,0.0,0.0,7.6,2.0,6.0,12.4,,6.3,Sí
+U0084,47.0,Hombre,Nigeria,Profesional,Licenciatura,Business Intelligence Analyst,Datos y analítica,1104.0,False,Grammarly,Análisis de datos,3.4,23.8,20.0,1.0,4.9,3.0,5.0,7.4,0.31092436974789917,7.3,No
+U0061,33.0,Hombre,Brasil,Profesional,Licenciatura,Desenvolvedor de Software Sênior,Tecnología y software,552.0,False,Gemini,Programación,0.5,3.5,20.0,1.0,2.9,3.0,5.0,0.1,0.028571428571428574,10.2,No
+U0116,20.0,Hombre,India,Estudiante,Pregrado en curso,Digital Media and Communications Student,Contenido y marketing,79.0,False,Gemini,Creación de contenido,3.5,24.5,20.0,1.0,4.7,4.0,7.0,8.3,0.33877551020408164,6.2,Sí
+U0039,23.0,Hombre,Reino Unido,Estudiante,Maestría,Bioinformatics Student,Ciencias e investigación,614.0,False,Claude,Investigación,1.0,7.0,20.0,1.0,2.5,4.0,6.0,0.7,0.09999999999999999,6.6,Quizás
+U0022,37.0,Mujer,India,Profesional,Diploma,Software Developer,Tecnología y software,1404.0,False,ChatGPT,Programación,1.7,11.9,,,5.7,5.0,7.0,3.4,0.2857142857142857,6.4,Sí
+U0137,23.0,Otro,,Estudiante,Maestría,Software Engineering Student,Tecnología y software,0.0,False,Copilot,Programación,1.0,7.0,20.0,1.0,3.3,3.0,5.0,2.6,0.37142857142857144,6.2,Sí
+U0027,20.0,Hombre,Reino Unido,Estudiante,Pregrado en curso,Computer Science Student,Tecnología y software,0.0,False,ChatGPT,Programación,1.3,9.1,0.0,0.0,4.8,4.0,7.0,2.9,0.31868131868131866,8.1,Sí
+U0268,31.0,Mujer,Francia,Estudiante,Pregrado en curso,Biology Student,Ciencias e investigación,302.0,False,Gemini,Estudio,0.7,4.8999999999999995,0.0,0.0,3.4,,5.0,0.8,0.163265306122449,4.5,Quizás
+U0131,35.0,,Estados Unidos,Profesional,Diploma,Administrative Assistant,Negocios y administración,5966.0,False,ChatGPT,Trabajo de oficina,4.9,34.300000000000004,20.0,1.0,5.7,3.0,5.0,11.5,0.3352769679300291,9.3,Sí
+U0255,28.0,Hombre,Australia,Profesional,Maestría,Senior Software Engineer,Tecnología y software,3610.0,False,Gemini,Programación,4.3,30.099999999999998,0.0,0.0,6.1,3.0,7.0,6.7,0.22259136212624586,8.1,Sí
+U0231,22.0,Hombre,Nigeria,Profesional,Maestría,Data Analyst,Datos y analítica,1091.0,False,,Análisis de datos,2.4,16.8,0.0,0.0,5.4,4.0,5.0,2.6,0.15476190476190477,8.0,Sí
+U0067,22.0,Otro,India,Estudiante,Pregrado en curso,Biotechnology Student,Ciencias e investigación,68.0,False,ChatGPT,,0.7,4.8999999999999995,0.0,0.0,4.1,4.0,6.0,2.1,0.42857142857142866,8.6,No
+U0234,,Mujer,Nigeria,Estudiante,Licenciatura,English Literature Student,Literatura y humanidades,,False,ChatGPT,Escritura,2.1,14.700000000000001,0.0,0.0,4.7,5.0,8.0,,,5.9,Sí
+U0184,36.0,Mujer,Filipinas,Profesional,Doctorado,Senior Software Engineer / AI Solutions Architect,Tecnología y software,1378.0,False,Perplexity,Programación,2.1,14.700000000000001,0.0,0.0,3.8,4.0,5.0,2.8,0.19047619047619044,7.8,Sí
+U0096,17.0,Hombre,Estados Unidos,Estudiante,Secundaria,Environmental Science Student,Ciencias e investigación,884.0,False,,Investigación,7.0,49.0,20.0,1.0,9.7,4.0,10.0,12.8,0.2612244897959184,5.8,Sí
+U0274,39.0,Mujer,Estados Unidos,Profesional,Licenciatura,Data Analyst,Datos y analítica,3204.0,False,ChatGPT,Análisis de datos,2.6,18.2,0.0,0.0,,3.0,6.0,3.6,0.19780219780219782,9.2,Sí
+U0192,,Hombre,Kenia,Profesional,Secundaria,Administrative Assistant,Negocios y administración,557.0,False,ChatGPT,Trabajo de oficina,9.9,69.3,0.0,0.0,8.8,5.0,9.0,16.2,0.23376623376623376,8.5,Sí
+U0113,25.0,Mujer,Alemania,Profesional,Maestría,Senior Software Developer / Softwareentwicklerin,Tecnología y software,6851.0,False,Gemini,Programación,4.1,28.699999999999996,0.0,0.0,6.0,4.0,7.0,7.2,0.25087108013937287,,Sí
+U0254,46.0,Mujer,Reino Unido,Profesional,Licenciatura,Customer Support Manager,Atención al cliente,3159.0,False,Perplexity,Atención al cliente,1.9,13.299999999999999,0.0,0.0,3.4,,7.0,4.1,0.3082706766917293,8.6,Sí
+U0171,34.0,Mujer,Estados Unidos,Profesional,Secundaria,Data Entry Specialist,Datos y analítica,3878.0,False,,Análisis de datos,4.8,33.6,30.0,1.0,7.7,3.0,6.0,5.7,0.16964285714285715,8.7,No
+U0088,24.0,Hombre,India,Profesional,Secundaria,Data Entry Operator,Datos y analítica,1761.0,False,Gemini,Análisis de datos,0.6,4.2,50.0,1.0,3.3,3.0,5.0,4.2,1.0,10.5,Sí
+U0127,25.0,Hombre,Canadá,Estudiante,Doctorado,Artificial Intelligence Research Student,Datos y analítica,0.0,False,ChatGPT,Estudio,1.9,13.299999999999999,10.0,1.0,5.5,3.0,5.0,2.9,0.2180451127819549,2.1,Quizás
+U0108,29.0,Mujer,India,Profesional,Maestría,Digital Content Strategist,Contenido y marketing,2090.0,False,ChatGPT,Creación de contenido,1.3,9.1,0.0,0.0,4.3,3.0,7.0,2.6,0.28571428571428575,9.9,Sí
+U0055,30.0,Hombre,Filipinas,Profesional,Maestría,Senior Software Engineer,Tecnología y software,579.0,False,Copilot,Programación,3.8,26.599999999999998,0.0,0.0,6.1,4.0,6.0,9.4,0.3533834586466166,7.4,Quizás
+U0251,24.0,Hombre,Reino Unido,Estudiante,Licenciatura,Molecular Biology Student,Ciencias e investigación,0.0,False,Copilot,Investigación,1.3,9.1,0.0,0.0,5.2,4.0,7.0,2.7,0.29670329670329676,4.8,Sí
+U0248,,Mujer,Australia,Profesional,Maestría,Senior Content Strategist,Contenido y marketing,6779.0,False,ChatGPT,Creación de contenido,2.3,16.099999999999998,0.0,0.0,4.8,3.0,,2.4,0.14906832298136646,11.2,No
+U0107,33.0,Hombre,Reino Unido,Profesional,Doctorado,Senior Machine Learning Engineer,Datos y analítica,8205.0,False,ChatGPT,Programación,1.5,10.5,10.0,1.0,5.0,4.0,7.0,1.8,0.17142857142857143,8.4,Sí
+U0194,40.0,Hombre,India,Profesional,Maestría,Senior Data Scientist,Datos y analítica,1575.0,False,ChatGPT,Análisis de datos,0.7,4.8999999999999995,0.0,0.0,3.8,4.0,8.0,0.6,0.12244897959183675,8.3,No
+U0026,54.0,Mujer,India,Profesional,Licenciatura,Administrative Assistant,Negocios y administración,2464.0,False,Gemini,Trabajo de oficina,3.9,27.3,0.0,0.0,7.7,4.0,8.0,6.8,0.24908424908424906,7.6,Sí
+U0095,43.0,Mujer,Pakistán,Profesional,Maestría,Content Strategist & Technical Writer,Contenido y marketing,730.0,False,ChatGPT,Escritura,1.6,11.200000000000001,20.0,1.0,5.1,4.0,5.0,4.7,0.4196428571428571,9.7,Quizás
+U0120,31.0,Hombre,India,Estudiante,Pregrado en curso,Electronics Engineering Student,Ingeniería,157.0,False,ChatGPT,Estudio,0.9,6.3,25.0,1.0,3.7,4.0,6.0,0.0,0.0,6.4,
+U0049,25.0,Mujer,Reino Unido,Profesional,,Junior Software Developer,Tecnología y software,2945.0,False,Perplexity,Programación,,,20.0,1.0,9.4,3.0,8.0,15.1,,11.3,Sí
+U0032,,Hombre,Alemania,Estudiante,Secundaria,German Literature Student,Literatura y humanidades,366.0,False,ChatGPT,Escritura,0.6,4.2,25.0,1.0,4.1,,6.0,3.0,0.7142857142857143,7.6,Sí
+U0073,,Hombre,Canadá,Estudiante,Pregrado en curso,Environmental Science Student,Ciencias e investigación,397.0,False,Gemini,Investigación,5.4,37.800000000000004,0.0,0.0,9.3,3.0,8.0,13.1,0.3465608465608465,6.5,Sí
+U0007,24.0,Hombre,Alemania,Estudiante,Maestría,Machine Learning Research Student,Datos y analítica,134.0,False,Claude,Investigación,3.6,25.2,20.0,1.0,,2.0,6.0,5.2,0.20634920634920637,6.5,Quizás
+U0285,35.0,Hombre,Filipinas,Profesional,Licenciatura,Content Writer,Contenido y marketing,1354.0,False,ChatGPT,Escritura,5.0,35.0,20.0,1.0,6.2,2.0,6.0,12.0,0.34285714285714286,6.9,Sí
+U0221,31.0,,Brasil,Estudiante,Secundaria,Software Development Student,Tecnología y software,191.0,False,Claude,Programación,1.9,13.299999999999999,0.0,0.0,4.8,4.0,7.0,4.8,0.3609022556390978,5.1,Sí
+U0279,35.0,Hombre,Australia,Profesional,Licenciatura,Senior Software Developer,Tecnología y software,6399.0,False,ChatGPT,Programación,1.3,9.1,20.0,1.0,3.1,3.0,4.0,4.3,0.4725274725274725,8.1,No
+U0222,23.0,Mujer,Estados Unidos,Estudiante,Secundaria,Biology Student,Ciencias e investigación,0.0,False,Copilot,Estudio,1.6,11.200000000000001,0.0,0.0,4.5,3.0,6.0,4.2,0.375,7.0,Sí
+U0157,20.0,Hombre,India,Estudiante,Pregrado en curso,Mechanical Engineering Student,Ingeniería,126.0,False,ChatGPT,Investigación,0.9,6.3,0.0,0.0,3.2,4.0,4.0,1.8,0.28571428571428575,6.3,Sí
+U0111,47.0,Hombre,Canadá,Profesional,Licenciatura,Content Marketing Manager,Contenido y marketing,2688.0,False,Meta AI,Escritura,0.9,6.3,10.0,1.0,3.9,3.0,5.0,1.5,0.2380952380952381,9.1,No
+U0029,19.0,Hombre,Francia,Estudiante,Pregrado en curso,Mathematics Student,Ciencias e investigación,0.0,False,Claude,Estudio,2.0,14.0,0.0,0.0,4.8,4.0,6.0,3.0,0.21428571428571427,6.3,Quizás
+U0199,30.0,Hombre,Nigeria,Profesional,Maestría,AI Customer Support Specialist,Atención al cliente,1262.0,False,Gemini,Atención al cliente,8.5,59.5,20.0,1.0,8.7,5.0,8.0,15.6,0.26218487394957984,,Sí
+U0083,31.0,Mujer,Canadá,Profesional,Doctorado,Senior Data Scientist,Datos y analítica,4815.0,False,Copilot,Análisis de datos,4.9,34.300000000000004,20.0,1.0,8.6,4.0,8.0,10.7,0.3119533527696792,12.4,
+U0286,28.0,Mujer,Brasil,Profesional,Maestría,Especialista em Atendimento ao Cliente com IA,Atención al cliente,666.0,False,ChatGPT,Atención al cliente,2.2,15.400000000000002,0.0,0.0,5.3,4.0,7.0,5.2,0.3376623376623376,8.6,Sí
+U0188,27.0,Hombre,Francia,Estudiante,Secundaria,History Student,Literatura y humanidades,482.0,False,DeepSeek,Investigación,6.0,42.0,0.0,0.0,7.6,5.0,8.0,13.1,0.3119047619047619,6.8,Sí
+U0237,40.0,Mujer,Nigeria,Profesional,Maestría,Customer Experience Manager,Atención al cliente,942.0,False,Perplexity,Atención al cliente,1.3,9.1,25.0,1.0,2.4,5.0,5.0,4.9,0.5384615384615385,9.7,Quizás
+U0195,34.0,Hombre,India,Profesional,Diploma,Administrative Executive,Negocios y administración,1188.0,False,Perplexity,Trabajo de oficina,0.7,4.8999999999999995,0.0,0.0,4.7,2.0,5.0,0.6,0.12244897959183675,8.5,
+U0242,56.0,Mujer,Pakistán,Profesional,Secundaria,Administrative Assistant,Negocios y administración,,False,Claude,Trabajo de oficina,5.0,35.0,10.0,1.0,7.7,4.0,7.0,11.4,0.32571428571428573,7.8,Sí
+U0250,23.0,Hombre,Kenia,Estudiante,Maestría,Data Science Student,Datos y analítica,137.0,False,Copilot,,1.4,9.799999999999999,25.0,1.0,,3.0,6.0,2.3,0.23469387755102042,,No
+U0216,23.0,Hombre,Francia,Estudiante,Pregrado en curso,Computer Science Student,Tecnología y software,137.0,False,,Programación,1.8,12.6,10.0,1.0,2.5,4.0,5.0,4.1,0.32539682539682535,5.9,Sí
+U0193,32.0,Hombre,Filipinas,Profesional,Maestría,Customer Support Specialist / AI Support Operations Manager,Atención al cliente,1141.0,False,Meta AI,Atención al cliente,0.5,3.5,10.0,1.0,5.8,4.0,8.0,2.7,0.7714285714285715,8.7,Sí
+U0037,63.0,Hombre,Brasil,Profesional,Diploma,,,418.0,False,ChatGPT,Escritura,1.6,11.200000000000001,,,4.9,4.0,5.0,4.9,0.4375,8.5,No
+U0257,41.0,Mujer,Brasil,Profesional,Secundaria,Desenvolvedora de Sistemas Júnior,Tecnología y software,1002.0,False,Meta AI,Programación,4.6,32.199999999999996,0.0,0.0,7.4,4.0,7.0,7.9,0.24534161490683234,8.8,Sí
+U0143,20.0,,Pakistán,Estudiante,Pregrado en curso,Digital Marketing Student,Contenido y marketing,0.0,False,Claude,Creación de contenido,3.4,23.8,10.0,1.0,6.5,3.0,6.0,7.2,0.3025210084033613,4.6,Sí
+U0086,23.0,Mujer,Pakistán,Profesional,Licenciatura,Content Writer,Contenido y marketing,965.0,False,Grammarly,Escritura,3.3,23.099999999999998,0.0,0.0,6.6,4.0,6.0,7.7,0.33333333333333337,9.6,Sí
+U0161,25.0,Mujer,Canadá,Profesional,Maestría,AI Customer Support Specialist,Atención al cliente,6171.0,False,Gemini,Atención al cliente,1.9,13.299999999999999,0.0,0.0,3.7,4.0,5.0,0.8,0.060150375939849635,7.6,Quizás
+U0214,18.0,Hombre,Filipinas,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,192.0,False,ChatGPT,Escritura,3.8,26.599999999999998,0.0,0.0,6.5,4.0,9.0,7.0,0.26315789473684215,7.6,Sí
+U0089,20.0,Hombre,Estados Unidos,Estudiante,Maestría,Machine Learning Student,Datos y analítica,0.0,False,ChatGPT,Programación,1.4,9.799999999999999,0.0,0.0,1.8,3.0,5.0,1.2,0.12244897959183675,5.6,Sí
+U0181,63.0,Mujer,Alemania,Profesional,Licenciatura,Content Manager,Contenido y marketing,4964.0,False,Gemini,Creación de contenido,0.7,4.8999999999999995,20.0,1.0,4.3,4.0,,3.6,0.7346938775510206,7.3,Quizás
+U0154,,Hombre,Pakistán,Estudiante,Licenciatura,Software Engineering Student,Tecnología y software,83.0,False,Claude,Estudio,2.3,16.099999999999998,20.0,1.0,6.1,3.0,5.0,2.3,0.14285714285714288,6.4,Quizás
+U0099,27.0,Hombre,Australia,Estudiante,Pregrado en curso,Mechanical Engineering Student,Ingeniería,578.0,False,ChatGPT,Estudio,4.0,28.0,0.0,0.0,7.5,3.0,8.0,7.9,0.28214285714285714,5.3,Sí
+U0030,36.0,Mujer,Estados Unidos,Profesional,Doctorado,AI Customer Success Manager,Atención al cliente,9938.0,False,Claude,,1.7,11.9,0.0,0.0,5.8,,5.0,7.1,0.5966386554621849,7.6,No
+U0233,58.0,Hombre,Brasil,Profesional,Licenciatura,Gerente de Atendimento ao Cliente,Atención al cliente,1469.0,False,,Atención al cliente,2.2,15.400000000000002,0.0,0.0,5.7,2.0,3.0,1.3,0.0844155844155844,7.1,Sí
+U0076,17.0,,Filipinas,Estudiante,Maestría,Creative Writing Student,Literatura y humanidades,130.0,False,Claude,,2.4,16.8,20.0,1.0,4.8,4.0,8.0,4.7,0.27976190476190477,3.2,Sí
+U0011,23.0,Mujer,,Profesional,Licenciatura,Customer Support Specialist,Atención al cliente,5268.0,False,Perplexity,Atención al cliente,1.2,8.4,0.0,0.0,2.4,4.0,,0.4,0.047619047619047616,8.8,No
+U0093,23.0,Hombre,Estados Unidos,Estudiante,Pregrado en curso,Computer Science Student,Tecnología y software,221.0,False,DeepSeek,Programación,1.3,9.1,25.0,1.0,4.5,2.0,4.0,3.8,0.4175824175824176,6.3,No
+U0244,26.0,Mujer,Estados Unidos,Estudiante,Maestría,Data Science Student,Datos y analítica,520.0,False,ChatGPT,Estudio,2.7,18.900000000000002,0.0,0.0,5.7,4.0,7.0,8.4,0.4444444444444444,5.4,Sí
+U0017,30.0,,Pakistán,Estudiante,,Software Engineering Student,Tecnología y software,67.0,False,ChatGPT,Programación,1.4,9.799999999999999,20.0,1.0,2.9,3.0,3.0,0.8,0.0816326530612245,5.6,No
+U0100,20.0,Otro,Estados Unidos,Estudiante,,Data Science Student,Datos y analítica,698.0,False,Gemini,Investigación,1.2,8.4,0.0,0.0,3.7,3.0,4.0,1.7,0.20238095238095236,4.7,No
+U0189,22.0,Hombre,Estados Unidos,Estudiante,Pregrado en curso,Data Science Student,Datos y analítica,600.0,False,ChatGPT,Estudio,1.4,9.799999999999999,25.0,1.0,2.9,4.0,4.0,4.6,0.46938775510204084,4.9,No
+U0063,24.0,Hombre,Filipinas,Estudiante,Secundaria,English Literature Student,Literatura y humanidades,63.0,False,Claude,Escritura,3.0,21.0,0.0,0.0,7.0,4.0,9.0,10.5,0.5,6.4,Sí
+U0047,26.0,Otro,Filipinas,Estudiante,Doctorado,Computer Science PhD Student,Tecnología y software,0.0,False,Gemini,Programación,0.8,5.6000000000000005,0.0,0.0,,2.0,3.0,0.0,0.0,3.7,No
+U0144,32.0,Mujer,Estados Unidos,Profesional,Licenciatura,Software Developer,Tecnología y software,7739.0,False,ChatGPT,Programación,2.2,15.400000000000002,0.0,0.0,5.1,3.0,6.0,5.6,0.36363636363636354,5.1,No
+U0001,29.0,Otro,Kenia,Profesional,Diploma,Data Analyst,Datos y analítica,898.0,False,ChatGPT,Análisis de datos,2.3,16.099999999999998,0.0,0.0,4.5,4.0,5.0,4.9,0.3043478260869566,6.4,Sí
+U0236,49.0,Mujer,India,Profesional,Maestría,Senior Research Scientist,Ciencias e investigación,1057.0,False,ChatGPT,Investigación,2.0,14.0,25.0,1.0,5.2,5.0,8.0,5.7,0.40714285714285714,7.5,No
+U0052,21.0,Hombre,Francia,Estudiante,Secundaria,Business Administration Student,Negocios y administración,221.0,False,Perplexity,Investigación,6.5,45.5,10.0,1.0,8.3,2.0,6.0,14.2,0.3120879120879121,4.8,No
+U0024,23.0,Hombre,Estados Unidos,Estudiante,Licenciatura,Digital Marketing Student,Contenido y marketing,237.0,False,Copilot,Creación de contenido,2.2,15.400000000000002,0.0,0.0,4.5,4.0,5.0,2.0,0.12987012987012986,,Sí
+U0006,31.0,Hombre,Brasil,Profesional,Licenciatura,Content Creator/Gestor de Conteúdo Digital,Contenido y marketing,1194.0,False,Claude,,2.1,14.700000000000001,0.0,0.0,5.4,2.0,6.0,2.0,0.13605442176870747,9.8,Sí
+U0187,21.0,Mujer,Pakistán,Estudiante,Pregrado en curso,Computer Science Student,Tecnología y software,0.0,False,DeepSeek,Programación,2.9,20.3,20.0,1.0,6.6,2.0,4.0,,,5.5,
+U0056,34.0,Mujer,Filipinas,Profesional,Diploma,Junior Web Developer,Tecnología y software,874.0,False,ChatGPT,Programación,1.9,13.299999999999999,0.0,0.0,5.1,4.0,7.0,4.9,0.368421052631579,8.3,Sí
+U0182,17.0,Mujer,Nigeria,Estudiante,Secundaria,English Literature Student,Literatura y humanidades,0.0,False,Copilot,Escritura,9.5,66.5,25.0,1.0,8.6,3.0,9.0,15.2,0.22857142857142856,5.7,Sí
+U0078,22.0,Hombre,Filipinas,Estudiante,Pregrado en curso,Information Technology Student,Tecnología y software,106.0,False,ChatGPT,Análisis de datos,4.9,34.300000000000004,20.0,1.0,5.5,4.0,6.0,8.2,0.23906705539358594,8.1,Quizás
+U0041,27.0,Mujer,Pakistán,Estudiante,Pregrado en curso,Digital Marketing Student,Contenido y marketing,74.0,False,ChatGPT,Creación de contenido,1.9,13.299999999999999,0.0,0.0,,4.0,7.0,1.4,0.10526315789473685,7.4,Sí
+U0230,40.0,Mujer,Alemania,Profesional,Secundaria,Kundenbetreuerin mit KI-Unterstützung,Atención al cliente,3054.0,False,ChatGPT,Atención al cliente,1.5,10.5,0.0,0.0,4.0,2.0,3.0,7.1,0.6761904761904761,7.6,No
+U0178,22.0,Mujer,Alemania,Estudiante,Licenciatura,Computer Science Student,Tecnología y software,442.0,False,ChatGPT,Programación,1.0,7.0,0.0,0.0,3.6,2.0,5.0,0.0,0.0,5.6,Sí
+U0272,23.0,Hombre,India,Estudiante,Pregrado en curso,Data Science Student,Datos y analítica,77.0,False,Grammarly,Investigación,1.5,10.5,0.0,0.0,3.4,2.0,4.0,2.2,0.20952380952380953,8.0,No
+U0253,,Mujer,Canadá,Profesional,Licenciatura,Customer Support Specialist,Atención al cliente,6705.0,False,DeepSeek,Atención al cliente,9.7,67.89999999999999,20.0,1.0,7.7,5.0,9.0,,,11.6,Sí
+U0045,36.0,Hombre,India,Profesional,Licenciatura,Senior Software Developer,Tecnología y software,987.0,False,ChatGPT,Programación,1.5,10.5,0.0,0.0,4.2,3.0,6.0,1.8,0.17142857142857143,7.6,Quizás
+U0042,23.0,Hombre,Reino Unido,Estudiante,Secundaria,Business Administration Student,Negocios y administración,109.0,False,ChatGPT,Estudio,0.6,4.2,25.0,1.0,2.1,4.0,6.0,0.1,0.023809523809523808,2.3,No
+U0150,37.0,Mujer,Nigeria,Profesional,Licenciatura,Content Writer,Contenido y marketing,889.0,False,ChatGPT,Escritura,3.3,23.099999999999998,0.0,0.0,7.8,4.0,7.0,6.5,0.2813852813852814,8.9,Sí
+U0023,21.0,Hombre,,Estudiante,Secundaria,English Literature Student,Literatura y humanidades,59.0,False,ChatGPT,Escritura,3.0,21.0,25.0,1.0,4.5,4.0,7.0,4.9,0.23333333333333334,8.4,Sí
+U0126,55.0,Hombre,Brasil,Profesional,Maestría,Pesquisador Sênior em Inteligência Artificial e Ciência de Dados,Datos y analítica,2116.0,False,Gemini,Investigación,1.4,9.799999999999999,0.0,0.0,3.9,2.0,4.0,1.6,0.163265306122449,8.3,Sí
+U0119,29.0,Otro,Filipinas,Profesional,Licenciatura,Business Intelligence Analyst,Datos y analítica,765.0,False,Copilot,Análisis de datos,2.8,19.599999999999998,0.0,0.0,6.6,4.0,9.0,9.4,0.47959183673469397,11.3,Sí
+U0082,63.0,Hombre,Australia,Profesional,Licenciatura,Technical Writer,Contenido y marketing,7178.0,False,ChatGPT,Escritura,2.3,16.099999999999998,,,4.8,3.0,5.0,2.0,0.12422360248447206,5.9,No
+U0104,26.0,Hombre,Pakistán,Estudiante,,Mechanical Engineering Student,Ingeniería,54.0,False,ChatGPT,Investigación,2.7,18.900000000000002,20.0,1.0,,3.0,5.0,5.0,0.26455026455026454,6.9,Quizás
+U0101,21.0,Hombre,Estados Unidos,Estudiante,Pregrado en curso,Biology Student,Ciencias e investigación,98.0,False,Copilot,,4.1,28.699999999999996,0.0,0.0,6.2,4.0,7.0,4.3,0.14982578397212545,4.6,Sí
+U0085,17.0,Mujer,Canadá,Estudiante,Doctorado,Theoretical Physics Student,Ciencias e investigación,518.0,False,,Estudio,3.2,22.400000000000002,20.0,1.0,5.2,4.0,8.0,4.8,0.21428571428571425,,Sí
+U0074,39.0,Hombre,Nigeria,Profesional,Secundaria,Research Assistant,Ciencias e investigación,488.0,False,DeepSeek,Investigación,1.2,8.4,20.0,1.0,3.4,3.0,,2.9,0.34523809523809523,6.8,Quizás
+U0148,17.0,Hombre,Pakistán,Estudiante,Licenciatura,Engineering Student,Ingeniería,75.0,False,Copilot,Estudio,5.9,41.300000000000004,0.0,0.0,6.1,2.0,5.0,12.1,0.29297820823244547,,No
+U0004,18.0,Mujer,India,Estudiante,Pregrado en curso,Information Technology Student,Tecnología y software,66.0,False,ChatGPT,,1.1,7.700000000000001,20.0,1.0,4.1,,7.0,5.6,0.7272727272727271,6.3,Sí
+U0166,,Mujer,Australia,Estudiante,Pregrado en curso,Biomedical Science Student,Ciencias e investigación,133.0,False,ChatGPT,Estudio,1.2,8.4,0.0,0.0,2.6,4.0,7.0,5.3,0.6309523809523809,7.1,Sí
+U0224,16.0,Hombre,India,Estudiante,Maestría,Physics Student,Ciencias e investigación,96.0,False,ChatGPT,Estudio,0.7,4.8999999999999995,0.0,0.0,4.3,4.0,7.0,0.0,0.0,,Sí
+U0277,23.0,Hombre,Reino Unido,Estudiante,Licenciatura,English Literature Student,Literatura y humanidades,504.0,False,ChatGPT,,0.6,4.2,20.0,1.0,1.9,3.0,4.0,0.0,0.0,4.5,Sí
+U0129,24.0,Mujer,Pakistán,Estudiante,,English Literature Student,Literatura y humanidades,95.0,False,Copilot,Escritura,3.7,25.900000000000002,0.0,0.0,7.7,4.0,7.0,9.9,0.3822393822393822,9.0,Quizás
+U0156,20.0,Hombre,Brasil,Estudiante,Doctorado,Artificial Intelligence & Digital Media Student,Datos y analítica,238.0,False,Claude,Creación de contenido,1.0,7.0,0.0,0.0,,,6.0,2.7,0.38571428571428573,6.2,Quizás
+U0033,23.0,Mujer,Pakistán,Estudiante,Secundaria,Biology Student,Ciencias e investigación,0.0,False,Gemini,Estudio,0.8,5.6000000000000005,20.0,1.0,4.3,4.0,5.0,2.9,0.5178571428571428,8.6,Sí
+U0213,22.0,Mujer,,Estudiante,Licenciatura,German Literature and Comparative Studies Student,Literatura y humanidades,0.0,False,ChatGPT,Escritura,2.5,17.5,10.0,1.0,5.2,2.0,5.0,4.4,0.25142857142857145,7.8,No
+U0208,23.0,Mujer,India,Estudiante,Pregrado en curso,Digital Marketing Student,Contenido y marketing,100.0,False,Perplexity,Creación de contenido,,,25.0,1.0,4.7,3.0,5.0,2.1,,6.0,Sí
+U0168,61.0,Mujer,Brasil,Profesional,Maestría,Analista de Dados Sênior,Datos y analítica,1.0,False,Gemini,Análisis de datos,1.5,10.5,10.0,1.0,4.9,,4.0,,,7.7,Sí
+U0087,17.0,Hombre,,Estudiante,Pregrado en curso,Digital Media & Film Production Student,Contenido y marketing,387.0,False,Copilot,Creación de contenido,1.5,10.5,10.0,1.0,6.2,3.0,6.0,7.5,0.7142857142857143,,No
+U0175,25.0,Hombre,,Profesional,Doctorado,AI Content Strategist,Contenido y marketing,1632.0,False,ChatGPT,Creación de contenido,4.4,30.800000000000004,0.0,0.0,7.8,4.0,9.0,7.1,0.23051948051948049,5.8,Sí
+U0180,49.0,Mujer,Filipinas,Profesional,Doctorado,Senior Research Scientist,Ciencias e investigación,1193.0,False,ChatGPT,Análisis de datos,5.8,40.6,20.0,1.0,8.1,2.0,6.0,13.5,0.33251231527093594,7.9,Quizás
+U0284,27.0,Mujer,Alemania,Profesional,Licenciatura,Softwareentwicklerin (Software Developer),Tecnología y software,3622.0,False,ChatGPT,Programación,4.0,28.0,0.0,0.0,5.0,4.0,6.0,5.7,0.20357142857142857,8.6,Sí
+U0020,26.0,Mujer,Australia,Estudiante,Maestría,Creative Writing Student,Literatura y humanidades,661.0,False,ChatGPT,Escritura,3.5,24.5,0.0,0.0,4.9,3.0,4.0,7.0,0.2857142857142857,6.0,Sí
+U0169,39.0,Mujer,Filipinas,Profesional,,Digital Content Creator / Social Media Manager,Contenido y marketing,1192.0,False,ChatGPT,Creación de contenido,1.4,9.799999999999999,30.0,1.0,3.5,4.0,6.0,3.8,0.38775510204081637,6.7,Sí
+U0153,22.0,Hombre,Estados Unidos,Estudiante,Secundaria,Computer Science Student,Tecnología y software,0.0,False,Copilot,,5.5,38.5,0.0,0.0,8.3,3.0,8.0,10.9,0.2831168831168831,7.4,Sí
+U0079,22.0,Hombre,Australia,Estudiante,Pregrado en curso,Mechanical Engineering Student,Ingeniería,613.0,False,Gemini,Estudio,1.9,13.299999999999999,20.0,1.0,5.6,2.0,4.0,8.0,0.6015037593984963,7.4,No
+U0106,48.0,Mujer,Reino Unido,Profesional,Licenciatura,Customer Support Manager,Atención al cliente,5563.0,False,ChatGPT,Atención al cliente,0.9,6.3,25.0,1.0,4.1,5.0,6.0,3.9,0.6190476190476191,5.9,No
+U0241,20.0,Hombre,Canadá,Estudiante,Secundaria,Biology Student,Ciencias e investigación,670.0,False,ChatGPT,Estudio,3.7,25.900000000000002,30.0,1.0,7.9,,9.0,7.5,0.28957528957528955,9.4,Sí
+U0151,39.0,Mujer,India,Profesional,Maestría,Senior Software Developer,Tecnología y software,1106.0,False,Copilot,Programación,4.4,30.800000000000004,0.0,0.0,6.1,4.0,8.0,7.7,0.24999999999999997,6.4,Sí
+U0072,23.0,Mujer,India,Estudiante,,Computer Science Student,Tecnología y software,50.0,False,Grammarly,Programación,9.8,68.60000000000001,0.0,0.0,9.1,4.0,9.0,15.8,0.23032069970845478,5.2,Sí
+U0245,63.0,Mujer,India,Profesional,Secundaria,,,1320.0,False,Claude,Trabajo de oficina,1.7,11.9,,,5.2,3.0,6.0,3.5,0.29411764705882354,9.4,Sí
+U0172,22.0,Mujer,Pakistán,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,0.0,False,ChatGPT,Escritura,3.9,27.3,0.0,0.0,6.9,4.0,9.0,6.7,0.2454212454212454,7.3,Sí
+U0133,20.0,Mujer,Nigeria,Estudiante,Maestría,Biomedical Engineering Student,Ingeniería,135.0,False,Claude,Investigación,1.6,11.200000000000001,30.0,1.0,4.5,4.0,6.0,3.5,0.31249999999999994,,Quizás
+U0282,41.0,Mujer,Canadá,Profesional,Diploma,Research Technician,Ciencias e investigación,3218.0,False,Meta AI,Investigación,2.7,18.900000000000002,10.0,1.0,4.8,4.0,7.0,6.4,0.3386243386243386,8.6,Sí
+U0025,17.0,Otro,,Estudiante,Pregrado en curso,Environmental Science Student,Ciencias e investigación,,False,ChatGPT,Investigación,6.1,42.699999999999996,30.0,1.0,7.0,4.0,8.0,8.9,0.20843091334894617,7.8,Sí
+U0122,,Mujer,Canadá,Estudiante,Pregrado en curso,Psychology Student,Ciencias e investigación,624.0,False,Gemini,Investigación,0.9,6.3,0.0,0.0,4.4,3.0,5.0,0.1,0.015873015873015876,7.4,Sí
+U0031,20.0,Hombre,Canadá,Estudiante,Pregrado en curso,,,415.0,False,Copilot,Investigación,3.0,21.0,0.0,0.0,4.4,3.0,5.0,3.1,0.14761904761904762,5.5,Sí
+U0062,22.0,Hombre,Australia,Estudiante,Maestría,Data Science Student,Datos y analítica,0.0,False,Copilot,Estudio,5.9,41.300000000000004,0.0,0.0,8.1,3.0,7.0,9.0,0.21791767554479416,7.3,Sí
+U0058,32.0,Hombre,Alemania,Profesional,Secundaria,Datenanalyst,Datos y analítica,4499.0,False,Claude,Análisis de datos,1.3,9.1,20.0,1.0,2.7,4.0,4.0,0.5,0.054945054945054944,6.2,Sí
+U0173,30.0,Hombre,Reino Unido,Profesional,Licenciatura,Software Developer,Tecnología y software,6437.0,False,Gemini,Programación,1.9,13.299999999999999,0.0,0.0,4.9,5.0,8.0,2.1,0.15789473684210528,6.7,Sí
+U0003,17.0,Mujer,Australia,Estudiante,Maestría,Data Science Student,Datos y analítica,440.0,False,ChatGPT,Análisis de datos,0.5,3.5,10.0,1.0,4.3,4.0,6.0,0.5,0.14285714285714285,7.5,No
+U0260,25.0,Mujer,India,Estudiante,Doctorado,Biotechnology PhD Student,Ciencias e investigación,60.0,False,Grammarly,Estudio,3.4,23.8,50.0,1.0,4.9,4.0,8.0,7.2,0.3025210084033613,8.0,Sí
+U0117,23.0,Mujer,India,Estudiante,Pregrado en curso,Biomedical Engineering Student,Ingeniería,219.0,False,Grammarly,Estudio,1.4,9.799999999999999,0.0,0.0,4.8,4.0,6.0,3.6,0.3673469387755103,6.1,Sí
+U0280,28.0,Mujer,Brasil,Estudiante,Maestría,Software Engineering Student,Tecnología y software,82.0,False,Gemini,Programación,0.8,5.6000000000000005,0.0,0.0,2.1,4.0,6.0,1.2,0.21428571428571425,8.3,Sí
+U0163,48.0,Otro,Australia,Profesional,Maestría,Research Analyst,Datos y analítica,5903.0,False,ChatGPT,Investigación,1.6,11.200000000000001,20.0,1.0,5.2,3.0,7.0,6.5,0.5803571428571428,9.7,Sí
+U0019,53.0,Hombre,Francia,Profesional,Licenciatura,Développeur Logiciel (Software Developer),Tecnología y software,3944.0,False,Perplexity,Programación,1.4,9.799999999999999,0.0,0.0,1.9,3.0,3.0,2.5,0.25510204081632654,9.5,No
+U0115,55.0,Hombre,Estados Unidos,Profesional,Licenciatura,Business Analyst,Datos y analítica,4070.0,False,Claude,Trabajo de oficina,2.7,18.900000000000002,20.0,1.0,6.8,4.0,7.0,,,10.7,Sí
+U0160,17.0,Hombre,India,Estudiante,Pregrado en curso,Electronics and Communication Engineering Student,Ingeniería,250000.0,True,ChatGPT,Investigación,1.7,11.9,0.0,0.0,5.8,4.0,7.0,5.0,0.42016806722689076,7.0,Sí
+U0048,,Mujer,Estados Unidos,Profesional,Licenciatura,,,,False,,Escritura,3.1,21.7,30.0,1.0,5.6,3.0,7.0,5.2,0.23963133640552997,8.4,Sí
+U0112,32.0,Mujer,Canadá,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,553.0,False,Perplexity,Escritura,1.5,10.5,25.0,1.0,3.6,4.0,6.0,5.5,0.5238095238095238,5.9,Quizás
+U0012,23.0,Hombre,Francia,Profesional,Licenciatura,Développeur Full Stack Junior,Tecnología y software,3693.0,False,Copilot,Programación,5.5,38.5,20.0,1.0,7.6,3.0,7.0,9.3,0.24155844155844158,6.1,Sí
+U0204,47.0,Mujer,Reino Unido,Profesional,Doctorado,Senior Software Engineer / AI Systems Developer,Tecnología y software,7690.0,False,Claude,Programación,0.5,3.5,,,2.0,2.0,3.0,2.7,0.7714285714285715,10.4,No
+U0091,21.0,Hombre,Canadá,Estudiante,Secundaria,English Literature Student,Literatura y humanidades,0.0,False,Claude,Escritura,2.9,20.3,10.0,1.0,5.7,2.0,4.0,6.6,0.3251231527093596,6.4,No
+U0266,28.0,Otro,,Profesional,Doctorado,Research Scientist / Data Analyst,Datos y analítica,1208.0,False,Perplexity,Trabajo de oficina,1.0,7.0,20.0,1.0,2.6,4.0,4.0,,,8.3,No
+U0018,,Hombre,Estados Unidos,Profesional,Maestría,Content Strategist,Contenido y marketing,10311.0,False,Gemini,Escritura,2.1,14.700000000000001,20.0,1.0,4.2,3.0,5.0,5.4,0.3673469387755102,10.5,Quizás
+U0128,41.0,Hombre,India,Profesional,Diploma,Software Developer (Diploma Qualified),Tecnología y software,1407.0,False,Grammarly,Programación,0.6,4.2,0.0,0.0,3.3,3.0,4.0,3.0,0.7142857142857143,9.5,No
+U0005,64.0,Mujer,India,Profesional,Maestría,Content Strategy Manager,Contenido y marketing,2050.0,False,Meta AI,Creación de contenido,5.3,37.1,50.0,1.0,7.8,3.0,6.0,10.7,0.2884097035040431,9.5,Quizás
+U0210,,Mujer,Estados Unidos,Estudiante,Pregrado en curso,Biology Student,Ciencias e investigación,243.0,False,Copilot,Estudio,0.8,5.6000000000000005,0.0,0.0,2.5,3.0,5.0,1.3,0.23214285714285712,6.8,No
+U0218,63.0,Hombre,Brasil,Profesional,Diploma,Desenvolvedor de Sistemas Junior,Tecnología y software,1405.0,False,ChatGPT,Programación,3.4,23.8,,,6.8,5.0,10.0,7.4,0.31092436974789917,7.5,Quizás
+U0038,,Hombre,Nigeria,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,98.0,False,Claude,Escritura,1.7,11.9,20.0,1.0,3.5,3.0,6.0,2.9,0.24369747899159663,7.7,Sí
+U0064,20.0,Hombre,India,Estudiante,Licenciatura,Data Science Student,Datos y analítica,104.0,False,ChatGPT,Estudio,6.8,47.6,0.0,0.0,6.9,2.0,6.0,14.1,0.296218487394958,6.4,No
+U0185,,Hombre,Brasil,Estudiante,Licenciatura,Digital Media Production Student,Contenido y marketing,243.0,False,Claude,Creación de contenido,2.8,19.599999999999998,100.0,1.0,5.4,3.0,6.0,6.8,0.34693877551020413,8.5,Sí
+U0273,22.0,Mujer,Estados Unidos,Estudiante,Pregrado en curso,Digital Media Student,Contenido y marketing,0.0,False,ChatGPT,Creación de contenido,5.9,41.300000000000004,20.0,1.0,5.5,3.0,5.0,12.4,0.3002421307506053,5.7,No
+U0247,,Mujer,Australia,Profesional,Maestría,Data Analyst / Business Intelligence Specialist,Datos y analítica,3.0,False,Gemini,Análisis de datos,4.5,31.5,0.0,0.0,5.6,4.0,5.0,5.5,0.1746031746031746,6.7,Quizás
+U0220,44.0,Mujer,Brasil,Profesional,Diploma,Assistente Administrativo,Negocios y administración,1613.0,False,Gemini,Trabajo de oficina,4.2,29.400000000000002,0.0,0.0,5.9,3.0,6.0,5.6,0.19047619047619044,10.0,Sí
+U0050,31.0,Mujer,Pakistán,Profesional,Licenciatura,Content Writer,Contenido y marketing,969.0,False,ChatGPT,Escritura,4.9,34.300000000000004,0.0,0.0,5.4,3.0,7.0,6.5,0.18950437317784255,9.3,Sí
+U0190,31.0,Hombre,Alemania,Profesional,Licenciatura,Content Manager,Contenido y marketing,,False,Copilot,Creación de contenido,3.4,23.8,0.0,0.0,4.8,2.0,5.0,6.0,0.25210084033613445,7.5,No
+U0249,39.0,Mujer,Canadá,Profesional,Diploma,Software Developer,Tecnología y software,3579.0,False,Copilot,Programación,4.4,30.800000000000004,0.0,0.0,7.3,4.0,7.0,5.7,0.18506493506493504,8.4,Sí
+U0124,48.0,Hombre,Pakistán,Profesional,Licenciatura,Digital Marketing Manager,Contenido y marketing,210.0,False,ChatGPT,Creación de contenido,1.8,12.6,10.0,1.0,3.6,3.0,4.0,5.1,0.40476190476190477,9.5,No
+U0196,19.0,Hombre,Pakistán,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,58.0,False,ChatGPT,Escritura,6.3,44.1,0.0,0.0,8.8,3.0,8.0,10.0,0.22675736961451246,7.3,Sí
+U0053,21.0,Mujer,Filipinas,Estudiante,Licenciatura,Psychology Research Student,Ciencias e investigación,88.0,False,ChatGPT,Investigación,1.6,11.200000000000001,10.0,1.0,3.4,3.0,5.0,5.9,0.5267857142857143,6.5,No
+U0240,27.0,Mujer,Estados Unidos,Estudiante,Maestría,Machine Learning Student,Datos y analítica,335.0,False,Perplexity,Programación,1.5,10.5,20.0,1.0,4.0,3.0,6.0,4.2,0.4,4.9,No
+U0212,22.0,Mujer,India,Estudiante,Pregrado en curso,Digital Marketing Student,Contenido y marketing,0.0,False,Copilot,Creación de contenido,0.7,4.8999999999999995,30.0,1.0,3.4,4.0,6.0,5.9,1.2040816326530615,5.4,No
+U0155,,Hombre,Reino Unido,Profesional,Diploma,Content Writer,Contenido y marketing,2303.0,False,Perplexity,Escritura,4.4,30.800000000000004,20.0,1.0,5.8,5.0,9.0,11.3,0.36688311688311687,7.8,Sí
+U0013,,Hombre,Canadá,Profesional,Secundaria,Junior Web Developer,Tecnología y software,3779.0,False,ChatGPT,Programación,5.7,39.9,0.0,0.0,6.7,2.0,5.0,13.0,0.32581453634085217,6.6,Quizás
+U0139,41.0,Hombre,Pakistán,Profesional,Secundaria,Digital Content Writer,Contenido y marketing,672.0,False,Claude,Creación de contenido,8.1,56.699999999999996,0.0,0.0,5.6,5.0,8.0,16.5,0.29100529100529104,7.4,Sí
+U0275,,Hombre,India,Estudiante,Secundaria,Statistics Student,Datos y analítica,0.0,False,Gemini,Análisis de datos,2.0,14.0,0.0,0.0,3.6,5.0,5.0,3.6,0.2571428571428572,4.4,Quizás
+U0105,19.0,Hombre,Estados Unidos,Estudiante,Licenciatura,Business Administration Student,Negocios y administración,135.0,False,Claude,Estudio,3.9,27.3,0.0,0.0,5.2,4.0,7.0,9.8,0.358974358974359,5.1,Sí
+U0065,,Hombre,Reino Unido,Estudiante,Licenciatura,Mechanical Engineering Student,Ingeniería,334.0,False,ChatGPT,Estudio,4.1,28.699999999999996,20.0,1.0,5.2,3.0,7.0,8.4,0.29268292682926833,5.9,Sí
+U0080,22.0,Hombre,,Estudiante,Secundaria,Computer Science Student,Tecnología y software,158.0,False,ChatGPT,Programación,1.6,11.200000000000001,10.0,1.0,3.1,4.0,6.0,5.9,0.5267857142857143,8.4,Sí
+U0261,27.0,Mujer,Canadá,Estudiante,Pregrado en curso,Software Engineering Student,Tecnología y software,0.0,False,Copilot,Programación,4.9,34.300000000000004,20.0,1.0,5.8,4.0,7.0,9.0,0.26239067055393583,6.0,Sí
+U0015,18.0,Hombre,Canadá,Estudiante,,Business Administration Student,Negocios y administración,56.0,False,Gemini,Estudio,1.7,11.9,30.0,1.0,4.9,3.0,5.0,1.9,0.15966386554621848,4.3,Sí
+U0090,16.0,Mujer,Estados Unidos,Estudiante,Secundaria,Environmental Science Student,Ciencias e investigación,118.0,False,Meta AI,Investigación,0.7,4.8999999999999995,0.0,0.0,4.5,4.0,7.0,1.0,0.20408163265306126,5.9,Sí
+U0123,18.0,Mujer,Pakistán,Estudiante,Pregrado en curso,Biomedical Engineering Student,Ingeniería,80.0,False,Grammarly,Investigación,4.1,28.699999999999996,20.0,1.0,7.0,5.0,8.0,10.5,0.3658536585365854,5.8,Sí
+U0103,41.0,Hombre,India,Profesional,Diploma,,,627.0,False,Grammarly,Atención al cliente,0.7,4.8999999999999995,0.0,0.0,2.3,4.0,5.0,3.0,0.6122448979591837,6.9,Sí
+U0265,25.0,Mujer,Pakistán,Profesional,Licenciatura,Content Writer,Contenido y marketing,863.0,False,Grammarly,Escritura,1.8,12.6,,,5.1,4.0,6.0,2.7,0.2142857142857143,10.3,Quizás
+U0051,22.0,Hombre,Canadá,Estudiante,Secundaria,Business Administration Student,Negocios y administración,0.0,False,Gemini,Estudio,2.0,14.0,0.0,0.0,4.9,,6.0,4.3,0.3071428571428571,8.3,No
+U0281,22.0,Mujer,India,Estudiante,Maestría,English Literature Student,Literatura y humanidades,167.0,False,ChatGPT,Escritura,8.6,60.199999999999996,0.0,0.0,7.6,,6.0,17.7,0.29401993355481726,5.5,No
+U0206,26.0,Hombre,Brasil,Estudiante,Pregrado en curso,Literature Student,Literatura y humanidades,73.0,False,ChatGPT,Escritura,,,0.0,0.0,3.4,2.0,4.0,1.5,,5.8,Sí
+U0262,23.0,Hombre,India,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,,False,ChatGPT,Escritura,9.7,67.89999999999999,0.0,0.0,7.5,4.0,,17.2,0.25331369661266573,4.1,Sí
+U0235,38.0,Hombre,India,Profesional,Maestría,Senior Content Strategist,Contenido y marketing,1114.0,False,Copilot,Escritura,,,30.0,1.0,3.8,4.0,7.0,1.5,,7.9,Sí
+U0142,28.0,Hombre,Reino Unido,Estudiante,Pregrado en curso,Data Science Student,Datos y analítica,528.0,False,Perplexity,Estudio,1.5,10.5,10.0,1.0,,3.0,5.0,5.5,0.5238095238095238,5.7,Sí
+U0097,32.0,Mujer,Australia,Estudiante,Maestría,Creative Writing Student,Literatura y humanidades,524.0,False,ChatGPT,Escritura,7.2,50.4,100.0,1.0,9.4,3.0,8.0,11.7,0.23214285714285712,6.5,Sí
+U0034,18.0,Hombre,Filipinas,Estudiante,Pregrado en curso,Information Technology Student,Tecnología y software,0.0,False,Grammarly,Estudio,0.9,6.3,,,4.9,4.0,6.0,2.5,0.39682539682539686,6.1,No
+U0256,39.0,Mujer,Pakistán,Profesional,Licenciatura,Customer Service Executive,Atención al cliente,915.0,False,ChatGPT,Atención al cliente,6.0,42.0,0.0,0.0,10.0,2.0,8.0,,,6.6,Sí
+U0110,39.0,Hombre,India,Profesional,Diploma,Customer Support Executive,Atención al cliente,483.0,False,DeepSeek,Atención al cliente,0.6,4.2,25.0,1.0,4.9,4.0,6.0,4.0,0.9523809523809523,7.1,Sí
+U0270,41.0,Hombre,Alemania,Profesional,Diploma,Softwareentwickler (Software Developer),Tecnología y software,3795.0,False,Copilot,Programación,2.9,20.3,20.0,1.0,7.8,4.0,6.0,8.4,0.41379310344827586,6.8,Sí
+U0159,23.0,Mujer,Alemania,Profesional,Maestría,Projektmanagerin (Project Manager),Negocios y administración,5976.0,False,ChatGPT,Trabajo de oficina,2.0,14.0,0.0,0.0,5.0,2.0,5.0,5.8,0.41428571428571426,6.6,Quizás
+U0283,35.0,Hombre,Reino Unido,Profesional,Licenciatura,Business Analyst,Datos y analítica,3513.0,False,Perplexity,Análisis de datos,1.5,10.5,0.0,0.0,,4.0,7.0,1.9,0.18095238095238095,8.0,Sí
+U0202,32.0,Mujer,India,Estudiante,Licenciatura,Biotechnology Student,Ciencias e investigación,110.0,False,ChatGPT,Investigación,3.3,23.099999999999998,0.0,0.0,6.3,5.0,10.0,5.9,0.2554112554112555,8.2,Sí
+U0200,49.0,Hombre,Estados Unidos,Profesional,Diploma,Software Support Technician,Atención al cliente,2690.0,False,DeepSeek,Programación,0.6,4.2,10.0,1.0,1.6,,3.0,2.2,0.5238095238095238,6.5,No
+U0040,,Hombre,Reino Unido,Profesional,Licenciatura,,,4102.0,False,Gemini,Creación de contenido,2.5,17.5,10.0,1.0,6.1,5.0,7.0,5.6,0.32,7.5,Sí
+U0183,,Otro,Estados Unidos,Estudiante,Licenciatura,English Literature Student,Literatura y humanidades,390.0,False,DeepSeek,Escritura,7.9,55.300000000000004,0.0,0.0,8.9,4.0,9.0,14.2,0.25678119349005424,6.0,Sí
+U0098,23.0,Mujer,Reino Unido,Estudiante,Licenciatura,Computer Science Student,Tecnología y software,312.0,False,Copilot,Programación,0.7,4.8999999999999995,0.0,0.0,5.1,4.0,6.0,4.8,0.979591836734694,4.1,No
+U0109,17.0,Mujer,Canadá,Estudiante,Secundaria,Computer Science Student,Tecnología y software,595.0,False,ChatGPT,Programación,8.0,56.0,0.0,0.0,7.4,3.0,7.0,15.8,0.28214285714285714,6.1,Sí
+U0170,54.0,Otro,India,Profesional,Licenciatura,Customer Support Executive,Atención al cliente,983.0,False,Claude,Atención al cliente,5.0,35.0,20.0,1.0,7.0,3.0,5.0,,,9.9,Sí
+U0068,23.0,Mujer,Brasil,Estudiante,Secundaria,Biology Student,Ciencias e investigación,0.0,False,ChatGPT,Estudio,,,0.0,0.0,3.8,2.0,6.0,0.1,,2.6,Sí
+U0077,16.0,Mujer,Filipinas,Estudiante,Pregrado en curso,Information Technology Student,Tecnología y software,76.0,False,ChatGPT,Análisis de datos,1.2,8.4,0.0,0.0,3.4,3.0,5.0,3.7,0.44047619047619047,8.2,No
+U0203,35.0,Mujer,Brasil,Profesional,Licenciatura,Desenvolvedora de Software,Tecnología y software,1991.0,False,Gemini,Programación,1.7,11.9,10.0,1.0,4.0,4.0,6.0,6.2,0.5210084033613446,7.3,Sí
+U0009,22.0,Mujer,Kenia,Estudiante,Licenciatura,Software Engineering Student,Tecnología y software,0.0,False,Gemini,Programación,3.3,23.099999999999998,0.0,0.0,6.0,2.0,6.0,6.4,0.2770562770562771,5.5,Sí
+U0140,19.0,Mujer,Estados Unidos,Estudiante,Pregrado en curso,Molecular Biology Student,Ciencias e investigación,0.0,False,Copilot,Investigación,2.8,19.599999999999998,20.0,1.0,5.0,3.0,6.0,6.9,0.35204081632653067,6.5,Quizás
+U0121,24.0,Mujer,Australia,Estudiante,Pregrado en curso,Business Analytics Student,Datos y analítica,435.0,False,Claude,Estudio,3.4,23.8,10.0,1.0,5.5,,6.0,7.7,0.3235294117647059,4.6,Sí
+U0201,21.0,Hombre,Canadá,Estudiante,Pregrado en curso,English Literature Student,Literatura y humanidades,678.0,False,ChatGPT,Escritura,3.0,21.0,0.0,0.0,4.0,4.0,6.0,7.1,0.33809523809523806,6.7,No
+U0021,24.0,Mujer,Reino Unido,Profesional,Secundaria,Junior Software Developer,Tecnología y software,4006.0,False,Copilot,Programación,2.9,20.3,25.0,1.0,6.1,3.0,6.0,8.3,0.4088669950738916,7.8,Sí
+U0267,16.0,Mujer,Estados Unidos,Estudiante,Doctorado,,,707.0,False,ChatGPT,Análisis de datos,1.1,7.700000000000001,0.0,0.0,5.1,3.0,7.0,5.1,0.6623376623376622,4.9,Sí
+U0044,31.0,Hombre,Alemania,Estudiante,Licenciatura,Data Science Student,Datos y analítica,523.0,False,,Investigación,2.0,14.0,0.0,0.0,5.6,4.0,6.0,3.8,0.2714285714285714,2.8,Sí
+U0276,20.0,Mujer,Filipinas,Estudiante,,English Literature Student,Literatura y humanidades,93.0,False,ChatGPT,Escritura,2.3,16.099999999999998,10.0,1.0,4.2,3.0,4.0,3.4,0.2111801242236025,6.1,No
+U0232,29.0,Otro,Francia,Profesional,Licenciatura,Analyste de Données / Data Analyst,Datos y analítica,5785.0,False,Claude,Análisis de datos,1.7,11.9,0.0,0.0,6.0,,7.0,3.7,0.31092436974789917,6.4,Sí
+U0252,35.0,Mujer,Reino Unido,Profesional,Maestría,Research Scientist,Ciencias e investigación,3114.0,False,Perplexity,Investigación,5.7,39.9,0.0,0.0,5.9,3.0,7.0,13.4,0.33583959899749377,9.0,Sí
+U0145,27.0,Mujer,Reino Unido,Profesional,Maestría,Content Strategist,Contenido y marketing,4186.0,False,ChatGPT,Escritura,0.8,5.6000000000000005,0.0,0.0,3.9,4.0,6.0,4.3,0.7678571428571428,9.0,Quizás
+U0229,20.0,Mujer,India,Estudiante,Licenciatura,English Literature Student,Literatura y humanidades,0.0,False,ChatGPT,Escritura,1.6,11.200000000000001,0.0,0.0,5.2,2.0,5.0,5.3,0.47321428571428564,8.4,Sí
+U0010,49.0,Mujer,Nigeria,Profesional,Licenciatura,Content Writer,Contenido y marketing,243.0,False,ChatGPT,Escritura,3.2,22.400000000000002,0.0,0.0,,3.0,6.0,10.0,0.4464285714285714,7.2,Quizás
+U0146,18.0,Mujer,Estados Unidos,Estudiante,Licenciatura,Biology Student,Ciencias e investigación,540.0,False,ChatGPT,Estudio,4.3,30.099999999999998,20.0,1.0,5.8,2.0,6.0,8.1,0.2691029900332226,5.2,No
+U0197,32.0,Mujer,Brasil,Estudiante,Secundaria,English Literature Student,Literatura y humanidades,152.0,False,Copilot,Escritura,0.5,3.5,10.0,1.0,2.3,5.0,7.0,3.1,0.8857142857142858,5.9,Sí
+U0186,38.0,Hombre,Filipinas,Profesional,Doctorado,Academic Research Professor and Technical Writer,Contenido y marketing,1148.0,False,Grammarly,Escritura,4.3,30.099999999999998,50.0,1.0,7.2,5.0,7.0,4.8,0.159468438538206,5.9,Sí
+U0287,22.0,Otro,India,Estudiante,Pregrado en curso,Mechanical Engineering Student,Ingeniería,0.0,False,Meta AI,Estudio,2.4,16.8,20.0,1.0,3.4,4.0,6.0,4.8,0.2857142857142857,6.2,No
+U0147,39.0,Hombre,Brasil,Profesional,Diploma,Analista de Dados,Datos y analítica,894.0,False,ChatGPT,Análisis de datos,2.8,19.599999999999998,20.0,1.0,7.9,4.0,9.0,3.9,0.19897959183673472,9.2,Sí
+U0134,27.0,Otro,Canadá,Estudiante,Pregrado en curso,Digital Media Production Student,Contenido y marketing,675.0,False,Claude,Creación de contenido,1.2,8.4,20.0,1.0,4.1,3.0,6.0,1.1,0.13095238095238096,7.6,Sí
+U0158,31.0,Hombre,Australia,Estudiante,Pregrado en curso,,,204.0,False,Meta AI,Escritura,0.6,4.2,0.0,0.0,3.3,2.0,4.0,3.6,0.8571428571428571,5.6,No
+U0174,32.0,Hombre,Canadá,Estudiante,Secundaria,Computer Science Student,Tecnología y software,0.0,False,Claude,Programación,3.9,27.3,0.0,0.0,5.7,3.0,6.0,7.3,0.2673992673992674,4.8,Quizás
+U0066,,Mujer,Estados Unidos,Profesional,Licenciatura,,,8255.0,False,Copilot,,1.8,12.6,0.0,0.0,1.8,3.0,4.0,,,12.2,No
+U0094,43.0,Hombre,Nigeria,Profesional,Diploma,Multimedia Content Producer,Contenido y marketing,,False,ChatGPT,Creación de contenido,1.2,8.4,0.0,0.0,4.7,3.0,,1.0,0.11904761904761904,10.9,No
+U0136,48.0,Hombre,Brasil,Profesional,Diploma,Desenvolvedor de Sistemas (Systems Developer),Tecnología y software,544.0,False,Gemini,Programación,5.5,38.5,0.0,0.0,7.8,4.0,7.0,11.5,0.2987012987012987,8.4,Sí
+U0002,31.0,Mujer,Pakistán,Profesional,Diploma,Junior Software Developer,Tecnología y software,448.0,False,ChatGPT,Programación,0.7,4.8999999999999995,0.0,0.0,4.3,3.0,4.0,1.7,0.34693877551020413,9.5,No
+U0130,36.0,Hombre,Estados Unidos,Profesional,Diploma,Software Developer,Tecnología y software,6766.0,False,ChatGPT,Programación,2.8,19.599999999999998,0.0,0.0,5.4,4.0,7.0,6.2,0.3163265306122449,8.2,Sí
